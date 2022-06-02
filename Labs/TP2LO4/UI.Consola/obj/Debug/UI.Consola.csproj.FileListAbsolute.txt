@@ -1,0 +1,14 @@
+C:\gitRepositorio\IDE\Labs\TP2LO3\UI.Consola\bin\Debug\UI.Consola.exe.config
+C:\gitRepositorio\IDE\Labs\TP2LO3\UI.Consola\bin\Debug\UI.Consola.exe
+C:\gitRepositorio\IDE\Labs\TP2LO3\UI.Consola\bin\Debug\UI.Consola.pdb
+C:\gitRepositorio\IDE\Labs\TP2LO3\UI.Consola\bin\Debug\Business.Entities.dll
+C:\gitRepositorio\IDE\Labs\TP2LO3\UI.Consola\bin\Debug\Business.Logic.dll
+C:\gitRepositorio\IDE\Labs\TP2LO3\UI.Consola\bin\Debug\Data.Database.dll
+C:\gitRepositorio\IDE\Labs\TP2LO3\UI.Consola\bin\Debug\Business.Entities.pdb
+C:\gitRepositorio\IDE\Labs\TP2LO3\UI.Consola\bin\Debug\Business.Logic.pdb
+C:\gitRepositorio\IDE\Labs\TP2LO3\UI.Consola\bin\Debug\Data.Database.pdb
+C:\gitRepositorio\IDE\Labs\TP2LO3\UI.Consola\obj\Debug\UI.Consola.csprojAssemblyReference.cache
+C:\gitRepositorio\IDE\Labs\TP2LO3\UI.Consola\obj\Debug\UI.Consola.csproj.CoreCompileInputs.cache
+C:\gitRepositorio\IDE\Labs\TP2LO3\UI.Consola\obj\Debug\UI.Consola.csproj.CopyComplete
+C:\gitRepositorio\IDE\Labs\TP2LO3\UI.Consola\obj\Debug\UI.Consola.exe
+C:\gitRepositorio\IDE\Labs\TP2LO3\UI.Consola\obj\Debug\UI.Consola.pdb
