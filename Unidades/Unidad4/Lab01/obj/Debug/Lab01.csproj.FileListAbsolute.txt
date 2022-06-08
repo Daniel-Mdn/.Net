@@ -1,7 +1,0 @@
-C:\gitRepositorio\.Net\Unidades\Unidad4\Lab01\bin\Debug\agenda.txt
-C:\gitRepositorio\.Net\Unidades\Unidad4\Lab01\bin\Debug\Lab01.exe
-C:\gitRepositorio\.Net\Unidades\Unidad4\Lab01\bin\Debug\Lab01.pdb
-C:\gitRepositorio\.Net\Unidades\Unidad4\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache
-C:\gitRepositorio\.Net\Unidades\Unidad4\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
-C:\gitRepositorio\.Net\Unidades\Unidad4\Lab01\obj\Debug\Lab01.exe
-C:\gitRepositorio\.Net\Unidades\Unidad4\Lab01\obj\Debug\Lab01.pdb
