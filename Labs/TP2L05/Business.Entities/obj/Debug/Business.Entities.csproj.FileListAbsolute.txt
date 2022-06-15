@@ -1,0 +1,12 @@
+C:\gitRepositorio\IDE\Labs\TP2LO3\Business.Entities\bin\Debug\Business.Entities.dll
+C:\gitRepositorio\IDE\Labs\TP2LO3\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\gitRepositorio\IDE\Labs\TP2LO3\Business.Entities\obj\Debug\Business.Entities.csprojAssemblyReference.cache
+C:\gitRepositorio\IDE\Labs\TP2LO3\Business.Entities\obj\Debug\Business.Entities.csproj.CoreCompileInputs.cache
+C:\gitRepositorio\IDE\Labs\TP2LO3\Business.Entities\obj\Debug\Business.Entities.dll
+C:\gitRepositorio\IDE\Labs\TP2LO3\Business.Entities\obj\Debug\Business.Entities.pdb
+C:\gitRepositorio\.Net\Labs\TP2L05\Business.Entities\bin\Debug\Business.Entities.dll
+C:\gitRepositorio\.Net\Labs\TP2L05\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\gitRepositorio\.Net\Labs\TP2L05\Business.Entities\obj\Debug\Business.Entities.csprojAssemblyReference.cache
+C:\gitRepositorio\.Net\Labs\TP2L05\Business.Entities\obj\Debug\Business.Entities.csproj.CoreCompileInputs.cache
+C:\gitRepositorio\.Net\Labs\TP2L05\Business.Entities\obj\Debug\Business.Entities.dll
+C:\gitRepositorio\.Net\Labs\TP2L05\Business.Entities\obj\Debug\Business.Entities.pdb

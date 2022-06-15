@@ -4,6 +4,6 @@
 
 /Unidades/Unidad4/Lab03/Ejercicio7/.vs/Ejercicio7/v16
 *.suo
-bin
-obj
-.vs
+*/bin
+*/obj
+*/.vs
